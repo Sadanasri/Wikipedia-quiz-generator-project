@@ -1,0 +1,59 @@
+{
+    "id": 1,
+    "url": "https://en.wikipedia.org/wiki/Social_media",
+    "title": "Social media",
+    "summary": "Social media are interactive technologies that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks.",
+    "key_entities": {
+        "topics": [
+            "Social media",
+            "Web 2.0",
+            "UGC"
+        ],
+        "platforms": [
+            "Facebook",
+            "Instagram",
+            "Twitter",
+            "LinkedIn"
+        ]
+    },
+    "sections": [
+        "History",
+        "Definitions",
+        "Usage",
+        "Impact"
+    ],
+    "quiz": [
+        {
+            "question": "What is a defining characteristic of Social Media according to the article?",
+            "options": [
+                "One-way communication",
+                "User-generated content",
+                "Static websites",
+                "Anonymous browsing only"
+            ],
+            "answer": "User-generated content",
+            "difficulty": "easy",
+            "explanation": "Social media relies on UGC (User Generated Content) to function.",
+            "section": "Definitions"
+        },
+        {
+            "question": "Which of these is considered a 'Web 2.0' milestone for social media?",
+            "options": [
+                "Email",
+                "The invention of the mouse",
+                "The rise of MySpace and Facebook",
+                "IBM Mainframes"
+            ],
+            "answer": "The rise of MySpace and Facebook",
+            "difficulty": "medium",
+            "explanation": "These platforms marked the transition to interactive Web 2.0 technologies.",
+            "section": "History"
+        }
+    ],
+    "related_topics": [
+        "Digital marketing",
+        "Internet privacy",
+        "Online communities",
+        "Web 2.0"
+    ]
+}
