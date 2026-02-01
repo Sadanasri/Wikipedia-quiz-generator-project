@@ -75,10 +75,4 @@ Requirements:
 
 Return response as VALID JSON.
 ```
-
----
-
-## 📂 Sample Data
-- Representative outputs can be found in the `sample_data/` directory.
-- `social_media_output.json`: A full API response example.
-
+<img width="1900" height="973" alt="image" src="https://github.com/user-attachments/assets/6c4561bd-2a1a-4e7f-acd8-5b376fbc309d" />
