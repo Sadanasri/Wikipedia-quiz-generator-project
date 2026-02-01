@@ -75,4 +75,9 @@ Requirements:
 
 Return response as VALID JSON.
 ```
-<img width="1900" height="973" alt="image" src="https://github.com/user-attachments/assets/6c4561bd-2a1a-4e7f-acd8-5b376fbc309d" />
+<img width="1917" height="995" alt="image" src="https://github.com/user-attachments/assets/e92677fb-c521-4625-a1d0-edf8420a0cb1" />
+
+ <img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/7e65fb1e-f904-4855-950f-81fcab1b92ce" />
+ <img width="1898" height="995" alt="image" src="https://github.com/user-attachments/assets/4b26f064-b4ba-4bac-b0a7-e4efc0abdfe9" />
+
+
